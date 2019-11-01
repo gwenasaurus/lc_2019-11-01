@@ -1,4 +1,6 @@
 # Description
-This is a test repository for library carpentry created during a workshop on November 1, 2019.
+This is a test repository for Library Carpentry.
 
-Anything you want.
+Learning how to make an edit to a file...
+
+Github graphitti
